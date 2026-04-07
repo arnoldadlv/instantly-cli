@@ -1,0 +1,20 @@
+{
+  "name": "instantly-cli",
+  "version": "0.1.0",
+  "description": "Zero-dependency CLI for the Instantly.ai v2 API",
+  "type": "module",
+  "bin": {
+    "instantly": "./bin/instantly.mjs"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": ["instantly", "cold-email", "cli", "email-automation"],
+  "author": "Arnold De La Vega",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnoldd/instantly-cli.git"
+  },
+  "files": ["bin/", "lib/", "LICENSE", "README.md"]
+}
