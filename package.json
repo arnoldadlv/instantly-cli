@@ -1,5 +1,5 @@
 {
-  "name": "@poamslayer/instantly-cli",
+  "name": "instantly-ai-cli",
   "version": "0.1.0",
   "description": "Zero-dependency CLI for the Instantly.ai v2 API",
   "type": "module",
