@@ -5,7 +5,7 @@ Zero-dependency CLI for the [Instantly.ai](https://instantly.ai) v2 API. Manage 
 ## Install
 
 ```bash
-npm install -g instantly-cli
+npm install -g @poamslayer/instantly-cli
 ```
 
 Requires Node.js 18+.
